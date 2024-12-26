@@ -1,13 +1,14 @@
 # keyflamigator
+keyframe zip folders turn into one organized folder with all your keyframes in order!
 
-# keyframe zip folders turn into one organized folder with all your keyframes in order!
+## 3 STEPS
+- to get started run app.py and select all your zip folders to combine into one
 
-# mini tool for  Kōdan
+- this will create an "ExtracedKeyrames" folder on your desktop
+- run it, then done!
 
-# to get started run app.py and select all your zip folders to combine into one
+<br>
 
-# this will create an "ExtracedKeyrames" folder on your desktop
+tested for Mac only
 
-# tested for Mac only
-
-# run it, then done!
+mini tool built for Kōdan
